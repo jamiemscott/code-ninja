@@ -1,6 +1,3 @@
-@import "/node_modules/open-props/open-props.min.css";
-@import "/node_modules/open-props/normalize.min.css";
-
 @font-face {
   font-family: "Gang-Of-Three";
   src: url("/assets/fonts/gang-of-three/go3v2.ttf");
