@@ -1,0 +1,4 @@
+from = "/we-are-legion/"
+to = "https://we-are-legion.front-end-ninja.co.uk/"
+status = 200
+force = true
